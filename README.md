@@ -7,17 +7,20 @@
 - 📫 Reach me at **edith.teodocia@gmail.com**  
 - 🌐 Check out my website: **[EdiTeoo.com](https://EdiTeoo.com)**  
 ### 🛠️ Languages & Tools  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="sqlserver" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/></a>
+</p>
