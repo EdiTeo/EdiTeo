@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[personal projects](https://github.com/EdiTeo)**  
 - 🌱 I’m currently learning **React, Node js, tailwindcss,**  
-- 💬 Ask me about **Js, Laravel**  
+- 💬 Ask me about **Js, Laravel, Java**  
 - 📫 Reach me at **edith.teodocia@gmail.com**  
 - 🌐 Check out my website: **[EdiTeoo.com](https://EdiTeoo.com)**  
 ### 🛠️ Languages & Tools  
