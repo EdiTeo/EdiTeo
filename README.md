@@ -2,8 +2,8 @@
 <h3 align="center">Frontend Developer from Bolivia</h3>
 
 - 🔭 I’m currently working on **[personal projects](https://github.com/EdiTeo)**  
-- 🌱 I’m currently learning **React, Node js, tailwindcss,**  
-- 💬 Ask me about **Js, Laravel, Java**  
+- 🌱 I’m currently learning **React, Node js, Laravel**  
+- 💬 Ask me about **Js, Java**  
 - 📫 Reach me at **edith.teodocia@gmail.com**  
 - 🌐 Check out my website: **[EdiTeoo.com](https://EdiTeoo.com)**  
 ### 🛠️ Languages & Tools  
