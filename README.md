@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Bolivia</h3>
 
 - 🔭 I’m currently working on **[personal projects](https://github.com/EdiTeo)**  
-- 🌱 I’m currently learning **Astro, Node js, Angular**  
+- 🌱 I’m currently learning **Astro, Node js, React**  
 - 💬 Ask me about **Js, Java**  
 - 📫 Reach me at **edith.teodocia@gmail.com**  
 - 🌐 Check out my website: **[EdiTeoo.com](https://EdiTeoo.com)**  
